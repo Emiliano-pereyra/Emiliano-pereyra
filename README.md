@@ -1,8 +1,8 @@
 # Emiliano Pereyra
 
-## Frontend Developer | React.js | Next.js | TypeScript
+## Fullstack Developer | QA Tester | React.js | Next.js | TypeScript
 
-Desarrollador Frontend con más de 3 años de experiencia profesional en el diseño y desarrollo de aplicaciones web, con foco en soluciones escalables, mantenibles y orientadas a las necesidades del negocio.
+Desarrollador Fullstack con más de 3 años de experiencia profesional en el diseño y desarrollo de aplicaciones web, con foco en soluciones escalables, mantenibles y orientadas a las necesidades del negocio.
 
 Mi experiencia abarca el desarrollo de interfaces y arquitecturas frontend, integración de APIs y servicios externos, modelización y gestión de bases de datos, autenticación, almacenamiento en la nube, testing y despliegues a producción.
 
